@@ -1,0 +1,72 @@
+# Sources: Steward (World English Bible)
+
+66 sources (66 local), 756,030 words. Video dates are upload dates. Every quote in this brain carries one of these ids.
+
+Format: id | title | url | date | words
+
+- S001 | Genesis (World English Bible) | https://ebible.org/web/ | undated | 35794
+- S002 | Exodus (World English Bible) | https://ebible.org/web/ | undated | 30693
+- S003 | Leviticus (World English Bible) | https://ebible.org/web/ | undated | 23470
+- S004 | Numbers (World English Bible) | https://ebible.org/web/ | undated | 30951
+- S005 | Deuteronomy (World English Bible) | https://ebible.org/web/ | undated | 26920
+- S006 | Joshua (World English Bible) | https://ebible.org/web/ | undated | 17703
+- S007 | Judges (World English Bible) | https://ebible.org/web/ | undated | 17828
+- S008 | Ruth (World English Bible) | https://ebible.org/web/ | undated | 2437
+- S009 | 1 Samuel (World English Bible) | https://ebible.org/web/ | undated | 23501
+- S010 | 2 Samuel (World English Bible) | https://ebible.org/web/ | undated | 19459
+- S011 | 1 Kings (World English Bible) | https://ebible.org/web/ | undated | 22961
+- S012 | 2 Kings (World English Bible) | https://ebible.org/web/ | undated | 22144
+- S013 | 1 Chronicles (World English Bible) | https://ebible.org/web/ | undated | 19207
+- S014 | 2 Chronicles (World English Bible) | https://ebible.org/web/ | undated | 24517
+- S015 | Ezra (World English Bible) | https://ebible.org/web/ | undated | 7095
+- S016 | Nehemiah (World English Bible) | https://ebible.org/web/ | undated | 10034
+- S017 | Esther (World English Bible) | https://ebible.org/web/ | undated | 5448
+- S018 | Job (World English Bible) | https://ebible.org/web/ | undated | 17782
+- S019 | Psalms (World English Bible) | https://ebible.org/web/ | undated | 40593
+- S020 | Proverbs (World English Bible) | https://ebible.org/web/ | undated | 14550
+- S021 | Ecclesiastes (World English Bible) | https://ebible.org/web/ | undated | 5528
+- S022 | Song of Solomon (World English Bible) | https://ebible.org/web/ | undated | 2594
+- S023 | Isaiah (World English Bible) | https://ebible.org/web/ | undated | 35364
+- S024 | Jeremiah (World English Bible) | https://ebible.org/web/ | undated | 40747
+- S025 | Lamentations (World English Bible) | https://ebible.org/web/ | undated | 3390
+- S026 | Ezekiel (World English Bible) | https://ebible.org/web/ | undated | 37932
+- S027 | Daniel (World English Bible) | https://ebible.org/web/ | undated | 11360
+- S028 | Hosea (World English Bible) | https://ebible.org/web/ | undated | 5057
+- S029 | Joel (World English Bible) | https://ebible.org/web/ | undated | 1919
+- S030 | Amos (World English Bible) | https://ebible.org/web/ | undated | 4046
+- S031 | Obadiah (World English Bible) | https://ebible.org/web/ | undated | 621
+- S032 | Jonah (World English Bible) | https://ebible.org/web/ | undated | 1267
+- S033 | Micah (World English Bible) | https://ebible.org/web/ | undated | 2975
+- S034 | Nahum (World English Bible) | https://ebible.org/web/ | undated | 1205
+- S035 | Habakkuk (World English Bible) | https://ebible.org/web/ | undated | 1379
+- S036 | Zephaniah (World English Bible) | https://ebible.org/web/ | undated | 1538
+- S037 | Haggai (World English Bible) | https://ebible.org/web/ | undated | 1029
+- S038 | Zechariah (World English Bible) | https://ebible.org/web/ | undated | 6018
+- S039 | Malachi (World English Bible) | https://ebible.org/web/ | undated | 1689
+- S040 | Matthew (World English Bible) | https://ebible.org/web/ | undated | 23452
+- S041 | Mark (World English Bible) | https://ebible.org/web/ | undated | 14495
+- S042 | Luke (World English Bible) | https://ebible.org/web/ | undated | 24910
+- S043 | John (World English Bible) | https://ebible.org/web/ | undated | 19032
+- S044 | Acts (World English Bible) | https://ebible.org/web/ | undated | 23257
+- S045 | Romans (World English Bible) | https://ebible.org/web/ | undated | 9491
+- S046 | 1 Corinthians (World English Bible) | https://ebible.org/web/ | undated | 9406
+- S047 | 2 Corinthians (World English Bible) | https://ebible.org/web/ | undated | 6133
+- S048 | Galatians (World English Bible) | https://ebible.org/web/ | undated | 3137
+- S049 | Ephesians (World English Bible) | https://ebible.org/web/ | undated | 3105
+- S050 | Philippians (World English Bible) | https://ebible.org/web/ | undated | 2234
+- S051 | Colossians (World English Bible) | https://ebible.org/web/ | undated | 2007
+- S052 | 1 Thessalonians (World English Bible) | https://ebible.org/web/ | undated | 1863
+- S053 | 2 Thessalonians (World English Bible) | https://ebible.org/web/ | undated | 1057
+- S054 | 1 Timothy (World English Bible) | https://ebible.org/web/ | undated | 2300
+- S055 | 2 Timothy (World English Bible) | https://ebible.org/web/ | undated | 1637
+- S056 | Titus (World English Bible) | https://ebible.org/web/ | undated | 919
+- S057 | Philemon (World English Bible) | https://ebible.org/web/ | undated | 450
+- S058 | Hebrews (World English Bible) | https://ebible.org/web/ | undated | 6923
+- S059 | James (World English Bible) | https://ebible.org/web/ | undated | 2273
+- S060 | 1 Peter (World English Bible) | https://ebible.org/web/ | undated | 2444
+- S061 | 2 Peter (World English Bible) | https://ebible.org/web/ | undated | 1535
+- S062 | 1 John (World English Bible) | https://ebible.org/web/ | undated | 2484
+- S063 | 2 John (World English Bible) | https://ebible.org/web/ | undated | 306
+- S064 | 3 John (World English Bible) | https://ebible.org/web/ | undated | 303
+- S065 | Jude (World English Bible) | https://ebible.org/web/ | undated | 612
+- S066 | Revelation (World English Bible) | https://ebible.org/web/ | undated | 11520
