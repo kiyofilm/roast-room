@@ -1,0 +1,61 @@
+# Sources: Tom Wheelwright
+
+55 sources (55 web), 248,828 words. Video dates are upload dates. Every quote in this brain carries one of these ids.
+
+Format: id | title | url | date | words
+
+- S001 | Episode 01 - Find Out How Taxes Can Make You Wealthy | https://www.wealthability.com/podcast/episode-01-find-out-how-taxes-can-make-you-wealthy/ | 2018-04-13 | 3715
+- S002 | Episode 02 - 5 Ways You Can Save on Taxes | https://www.wealthability.com/podcast/episode-02-5-ways-you-can-save-on-taxes/ | 2018-05-02 | 4877
+- S003 | Episode 12 - Make More Money With The Tax Law | https://www.wealthability.com/podcast/episode-12-make-more-money-with-the-tax-law/ | 2018-09-12 | 4515
+- S004 | Episode 13 - The Tax-Free Investment Available To Everyone | https://www.wealthability.com/podcast/episode-13-the-tax-free-investment-available-to-everyone/ | 2018-09-26 | 5089
+- S005 | Episode 15 - The Secret Tool of The Professional Investor | https://www.wealthability.com/podcast/episode-15-the-secret-tool-of-the-professional-investor/ | 2018-10-31 | 5426
+- S006 | Episode 16 - Take Control Of Your Wealth & Stop Working For A Paycheck | https://www.wealthability.com/podcast/episode-16-take-control-of-your-wealth-stop-working-for-a-paycheck/ | 2018-11-07 | 5836
+- S007 | Episode 20 - Find Out The #1 Key To Building Wealth! | https://www.wealthability.com/podcast/episode-20-find-out-the-1-key-to-building-wealth/ | 2019-01-02 | 4031
+- S008 | Episode 21 - If You Want To Change Your Tax, You Have To Change Your Facts | https://www.wealthability.com/podcast/episode-21-if-you-want-to-change-your-tax-you-have-to-change-your-facts/ | 2019-01-16 | 4170
+- S009 | Episode 22 - Avoiding Lawsuits in Business & Investing | https://www.wealthability.com/podcast/episode-22-avoiding-lawsuits-in-business-investing/ | 2019-01-31 | 4082
+- S010 | Episode 23 - Never Fear A Government Audit | https://www.wealthability.com/podcast/episode-23-never-fear-a-government-audit/ | 2019-03-06 | 4088
+- S011 | Episode 24 - Ask Your CPA These Questions About The New Tax Law | https://www.wealthability.com/podcast/episode-24-ask-your-cpa-these-questions-about-the-new-tax-law/ | 2019-03-06 | 3370
+- S012 | Episode 25 - How To Reduce Your Taxes Everyday | https://www.wealthability.com/podcast/episode-25-how-to-reduce-your-taxes-everyday/ | 2019-03-14 | 3022
+- S013 | Episode 26 - The Single Investment That Makes You Money 5 Different Ways | https://www.wealthability.com/podcast/episode-26-the-single-investment-that-makes-you-money-5-different-ways/ | 2019-03-27 | 4000
+- S014 | Episode 28 - The #1 Mistake Entrepreneurs & Investors Make | https://www.wealthability.com/podcast/episode-28-the-1-mistake-entrepreneurs-investors-make/ | 2019-04-25 | 3626
+- S015 | Episode 29 - How The Government Will Pay To Lower The Risk In Your Business | https://www.wealthability.com/podcast/episode-29-how-the-government-will-pay-to-lower-the-risk-in-your-business/ | 2019-05-11 | 4200
+- S016 | Episode 32 - Reduce Your Income Tax Today & Leave A Legacy For Your Family | https://www.wealthability.com/podcast/episode-32-reduce-your-income-tax-today-leave-a-legacy-for-your-family/ | 2019-06-19 | 5466
+- S017 | Episode 33 - How To Remove Fear From Your Life | https://www.wealthability.com/podcast/episode-33-how-to-remove-fear-from-your-life/ | 2019-07-12 | 4651
+- S018 | Episode 34 - The Sexiest Real Estate Investment | https://www.wealthability.com/podcast/episode-34-the-sexiest-real-estate-investment/ | 2019-08-01 | 4438
+- S019 | Episode 35 - Pay No Tax When Selling Your Business | https://www.wealthability.com/podcast/episode-35-pay-no-tax-when-selling-your-business/ | 2019-08-15 | 3552
+- S020 | Episode 36 - Reduce Your Taxes & Your Audit Risk | https://www.wealthability.com/podcast/episode-36-reduce-your-taxes-your-audit-risk/ | 2019-08-29 | 2476
+- S021 | Episode 37 - How To Pay Little Or No Taxes Like The Big Guys | https://www.wealthability.com/podcast/episode-37-how-to-pay-little-or-no-taxes-like-the-big-guys/ | 2019-09-13 | 4177
+- S022 | Episode 38 - Eliminate Your Fear Of The IRS | https://www.wealthability.com/podcast/episode-38-eliminate-your-fear-of-the-irs/ | 2019-09-26 | 4464
+- S023 | Episode 40 - The Right Way To Take Money From Your Business | https://www.wealthability.com/podcast/episode-40-the-right-way-to-take-money-from-your-business/ | 2019-10-24 | 3555
+- S024 | Episode 41 - Why People Cheat On Their Taxes | https://www.wealthability.com/podcast/episode-41-why-people-cheat-on-their-taxes/ | 2019-11-08 | 4794
+- S025 | Episode 42 - How To Make Good Business Decisions With Limited Information | https://www.wealthability.com/podcast/episode-42-how-to-make-good-business-decisions-with-limited-information/ | 2019-11-27 | 4614
+- S026 | Episode 43 - How To Discover Your Path To Wealth | https://www.wealthability.com/podcast/episode-43-how-to-discover-your-path-to-wealth/ | 2019-12-06 | 5286
+- S027 | Episode 46 - Maintain Peace When You Die With A Living Trust | https://www.wealthability.com/podcast/episode-46-maintain-peace-when-you-die-with-a-living-trust/ | 2020-01-17 | 4377
+- S028 | Episode 60 - Take Command Of Your Taxes During COVID | https://www.wealthability.com/podcast/episode-60-take-command-of-your-taxes-during-covid/ | 2020-07-13 | 3787
+- S029 | Episode 66 - Trump's Taxes | https://www.wealthability.com/podcast/episode-66-trumps-taxes/ | 2020-10-01 | 4299
+- S030 | Episode 67 - Investing For High-Income Earners | https://www.wealthability.com/podcast/episode-67-investing-for-high-income-earners/ | 2020-10-15 | 6031
+- S031 | Episode 69 - Freedom From Needing A Paycheck | https://www.wealthability.com/podcast/episode-69-freedom-from-needing-a-paycheck/ | 2020-12-10 | 4658
+- S032 | Episode 71 - Tax Changes For 2021 | https://www.wealthability.com/podcast/episode-71-tax-changes-for-2021/ | 2020-12-10 | 5493
+- S033 | Episode 75 - Tax Migration | https://www.wealthability.com/podcast/episode-75-tax-migration/ | 2021-01-28 | 4965
+- S034 | Episode 130 - Short-Term Rentals, Long-Term Wealth with Tim Hubbard | https://www.wealthability.com/podcast/episode-130-short-term-rentals-long-term-wealth-with-tim-hubbard/ | 2023-01-06 | 5837
+- S035 | Episode 159 - How to Invest in Real Estate in 2024: Tom Wheelwright & Keith Weinhold | https://www.wealthability.com/podcast/episode-159-how-to-invest-in-real-estate-in-2024-tom-wheelwright-keith-weinhold/ | 2024-01-11 | 5914
+- S036 | Episode 10 - Buy, Borrow & Die | https://www.wealthability.com/podcast/buy-borrow-die/ | 2018-08-20 | 4918
+- S037 | Episode 11 - How To Select The Right Tax Advisor with Robert Kiyosaki | https://www.wealthability.com/podcast/the-right-tax-advisor-with-robert-kiyosaki/ | 2018-08-30 | 3817
+- S038 | Episode 14 - Shave 20% Off Your Income Tax | https://www.wealthability.com/podcast/shave-20-off-your-income-tax/ | 2018-10-11 | 5047
+- S039 | Episode 45 -Confessions From An IRS Insider | https://www.wealthability.com/podcast/confessions-from-an-irs-insider/ | 2020-01-03 | 5420
+- S040 | Episode 09 - Get a Tax Break for Family Activities | https://www.wealthability.com/podcast/get-a-tax-break-for-family-activities/ | 2018-08-01 | 6404
+- S041 | Episode 145 - Fed Up With the IRS with Mark Calabria | https://www.wealthability.com/podcast/episode-145-fed-up-with-the-irs-with-mark-calabria/ | 2023-06-23 | 5839
+- S042 | Top 10 Tax Planning Strategies | https://www.wealthability.com/blog/tax-articles/top-10-tax-planning-strategies/ | 2020-11-30 | 2249
+- S043 | How To Choose A Tax Advisor | https://www.wealthability.com/blog/how-to-choose-a-tax-advisor/ | 2020-12-04 | 1305
+- S044 | Rich Dad's CPA Shares 5 Steps to Eliminate Income Taxes through Real Estate | https://www.biggerpockets.com/show569 | 2022-02-10 | 17343
+- S045 | Episode 03 - How To Stop Worrying About Money | https://www.wealthability.com/podcast/episode-03-how-to-stop-worrying-about-money/ | 2018-05-17 | 3720
+- S046 | Episode 06 - How to Achieve Your Financial Goals In 7-10 Years | https://www.wealthability.com/podcast/episode-06-how-to-achieve-your-financial-goals-in-7-10-years/ | 2018-06-26 | 3709
+- S047 | Episode 07 - Overcome The Fear of Investing & Enjoy Building Wealth | https://www.wealthability.com/podcast/episode-07-overcome-the-fear-of-investing-enjoy-building-wealth/ | 2018-07-03 | 4093
+- S048 | Episode 19 - Double The Return On Your Investments & Increase Your Tax Benefits | https://www.wealthability.com/podcast/episode-19-double-the-return-on-your-investments-increase-your-tax-benefits/ | 2018-12-20 | 3852
+- S049 | Episode 27 - How To Upgrade To First Class | https://www.wealthability.com/podcast/episode-27-how-to-upgrade-to-first-class/ | 2019-04-11 | 4511
+- S050 | Episode 30 - Did You Leave Money On The Table This Tax Season? | https://www.wealthability.com/podcast/episode-30-did-you-leave-money-on-the-table-this-tax-season/ | 2019-05-21 | 2757
+- S051 | Episode 31 - Reduce Your Stress & Increase Your Wealth | https://www.wealthability.com/podcast/episode-31-reduce-your-stress-increase-your-wealth/ | 2019-06-06 | 5060
+- S052 | Episode 39 - How To Evaluate, Change & Maximize Your Advisors | https://www.wealthability.com/podcast/episode-39-how-to-evaluate-change-maximize-your-advisors/ | 2019-10-10 | 4827
+- S053 | Episode 44 - Act Now To Receive Year-End Tax Benefits | https://www.wealthability.com/podcast/episode-44-act-now-to-receive-year-end-tax-benefits/ | 2019-12-20 | 3524
+- S054 | Episode 68 - Safeguard Your Wealth | https://www.wealthability.com/podcast/episode-68-safeguard-your-wealth/ | 2020-11-04 | 448
+- S055 | Episode 70 - Year End Tax Moves | https://www.wealthability.com/podcast/episode-70-year-end-tax-moves/ | 2020-12-10 | 3104
