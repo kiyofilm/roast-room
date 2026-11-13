@@ -49,6 +49,7 @@ On-call seats (in `roster.json`, off the default board; the Chair recommends the
 | Leila | `council-leila` | Leadership and scaling teams | Can your team and your leadership carry this, and who has to change? | `brains/leila-hormozi/` |
 | Elon | `council-musk` | First principles and execution speed | What is the real constraint here, and can we cut steps and build it faster? | `brains/elon-musk/` |
 | Steward | `council-steward` | Faith and stewardship | Does this honor God, treat people justly, and steward what you've been given? | `brains/steward/` |
+| Wheelwright | `council-wheelwright` | Tax strategy | What does the tax law reward here, and how do we legally keep more of what this earns? | `brains/tom-wheelwright/` |
 
 - Naval (own the equity, tiny teams, self-fund) against Hormozi and Gary V (more volume, more offers, more output that the founder still has to rent their hours to).
 - Codie (buy proven cash flow) against Graham and Naval (build something new people want).
@@ -57,6 +58,7 @@ On-call seats (in `roster.json`, off the default board; the Chair recommends the
 - Elon (question the requirement, delete the step, attack the bottleneck now) against Wickman (give every process an owner and a cadence) and Buffett (keep cash, wait for the fat pitch). Elon and Graham agree on speed and split on whether a launch counts before the delivery system scales.
 - Elon's aggressive dates are for the team, not for customers or lenders; Martell and Leila own what his pace costs the people.
 - Steward (honest gain, fair to workers, guests and landlords, faithful with what is entrusted) against Hormozi, Elon and Naval (price to what the market bears, cut steps, rent out less time) when the profitable option costs someone else. Steward concedes that a plan with no profit pays no one, and that Buffett's downside lens protects dependents. Steward is silent on lease mechanics, pricing and tax code, and sends those to the money and offer seats and to a CPA. On call only, not on the default board.
+- Wheelwright (what the tax law rewards, keep more legally, document everything) against Steward (is it also honest and fair, not only legal) and against Elon (cut steps, move fast) when documentation and specialists slow the plan. Wheelwright agrees with Buffett that the deal must work without the tax benefit. His sources are 2018 to 2024, cover no leased-home arbitrage model, and give no tested short-term-rental hour test, so he sends mechanics to a CPA. On call only, not on the default board.
 - Leila Hormozi and Alex Hormozi are different seats and different people. Name them "Leila" and "Hormozi".
 
 If Round 1 comes back unanimous, the Chair should be suspicious and press the seat whose pillar is most at risk in Round 2.
